@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="400" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZndnNvMnJoMXMyZWp3bXU4ZDZhMnJpYWY0d2djem9rbjB3c3JmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGVp95GDPgFYmUE/giphy.gif]">
-
 ![Trabalho em progresso](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZndnNvMnJoMXMyZWp3bXU4ZDZhMnJpYWY0d2djem9rbjB3c3JmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGVp95GDPgFYmUE/giphy.gif))
 
 **JoseBento4759/JoseBento4759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
